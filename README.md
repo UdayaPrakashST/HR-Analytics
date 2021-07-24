@@ -7,4 +7,4 @@ The management team of XYZ company observes that annually the company is facing 
 
 
 <a href="https://github.com/UdayaPrakashST/HR-Analytics/blob/main/HRAnalytics_Case_Study_v2.pdf" 
-alt="Analysis and Insights" width="240" height="180" border="10" /></a>
+ width="240" height="180" border="10" /> Analysis and Insights </a>
